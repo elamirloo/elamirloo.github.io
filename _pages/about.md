@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior research scientist at Apple. My passion is to design algorithms and models to solve the real-world problems. That's the reason that I did most of my research in R&D labs in industry. You can find the results of my work in form of papers, patents and products. My research focuses on generative modeling, sequential decision making, computer vision. 
+I'm currently a senior research scientist at Apple. My passion is to design algorithms and models to solve real-world problems. That's the reason that I did most of my research in R&D labs in industry. You can find the results of my work in form of papers, patents and products. My research focuses on generative modeling, sequential decision making, computer vision. 
